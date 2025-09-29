@@ -1,4 +1,4 @@
-# Triply-smart-planning-for-trips
+# Triply-Smart planning for trips
 
 **Triply** is an AI-assisted group trip planner designed to simplify collaborative travel planning. It centralizes scheduling, budgets, activities, maps, and communication, making group trips organized and enjoyable.
 
