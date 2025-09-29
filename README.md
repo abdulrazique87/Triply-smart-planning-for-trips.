@@ -28,5 +28,30 @@
 
 ---
 
+Usage
+
+Create an account / login.
+
+Add a new group trip.
+
+Invite friends/family to join.
+
+Plan activities, budgets, and routes collaboratively.
+
+Receive AI-powered suggestions for activities and optimized itineraries.
+
+🌟 Future Scope
+
+Multi-day & multi-city trips with dynamic routing.
+
+Integration with booking platforms (hotels, flights, buses).
+
+Mobile app version with push notifications.
+
+Gamification & rewards for efficient trip planning.
+
+Advanced AI summarization and predictive recommendations.
+
+
 TENET'25 HACKATHON
 
