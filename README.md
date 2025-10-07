@@ -52,6 +52,3 @@ Gamification & rewards for efficient trip planning.
 
 Advanced AI summarization and predictive recommendations.
 
-
-TENET'25 HACKATHON
-
